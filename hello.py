@@ -1,0 +1,1 @@
+ def factortal(n): codeb 2 if n == 0: codeb 3 return user 4 else: user. 5 return n * factorial(n - 1) codeb 6 /home 7 number = 5 codeb 8 result 8 result = factorial (number) codeb 9 print(f"The factortal of (number) is (result}.")
